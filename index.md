@@ -9,7 +9,7 @@ layout: default
 
 [You Can Find My Resume Here](./resume.pdf).
 
-Most people assumed that I am an A-Hole. I am not one.
+Most people assumed that I am an expert, I am not one.
 
 I have worked on many thing as you can see from my GitHub repository.
 
