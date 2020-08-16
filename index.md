@@ -2,7 +2,7 @@
 layout: default
 ---
 
-![Me](https://github.com/arunjois/arunjois.github.io/blob/master/assets/images/me.jpg)
+![Me](https://raw.githubusercontent.com/arunjois/arunjois.github.io/master/assets/images/me.jpg)
 
 **I am Arun S Jois**    
 >A programmer beyond the realm of Earth.
