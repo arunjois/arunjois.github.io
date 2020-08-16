@@ -1,8 +1,12 @@
 ---
 layout: default
 ---
+### Large image
 
-**I am Arun S Jois**    -A programmer beyond the realm of Earth.
+![Me](https://github.com/arunjois/arunjois.github.io/assets/images/me.png)
+
+**I am Arun S Jois**    
+>A programmer beyond the realm of Earth.
 
 [You Can Find My Resume Here](./resume.pdf).
 
