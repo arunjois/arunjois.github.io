@@ -2,7 +2,7 @@
 layout: default
 ---
 
-![Me](https://raw.githubusercontent.com/arunjois/arunjois.github.io/master/assets/images/me.jpg =250x250 )
+![Me](https://raw.githubusercontent.com/arunjois/arunjois.github.io/master/assets/images/me.jpg) {:height="50%" width="50%"}
 
 **I am Arun S Jois**    
 >A programmer beyond the realm of Earth.
