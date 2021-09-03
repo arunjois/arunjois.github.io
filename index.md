@@ -2,5 +2,6 @@
 layout: default
 ---
 
-# Portfolio
-![photo](./assets/images/me.jpg)
+# About Me
+IT professional .
+
