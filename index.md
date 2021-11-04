@@ -3,5 +3,5 @@ layout: default
 ---
 
 # About Me
-IT professional .
+IT Professional. 
 
